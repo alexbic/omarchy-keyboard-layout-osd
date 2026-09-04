@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "alexbic.keyboard-osd",
+  "name": "Keyboard Layout OSD",
+  "version": "1.0.0",
+  "description": "Centered, theme-aware keyboard layout indicator for Omarchy and Hyprland.",
+  "kinds": [
+    "panel"
+  ],
+  "keepLoaded": true,
+  "entryPoints": {
+    "panel": "KeyboardOsd.qml"
+  },
+  "author": "Alexander Bikmukhametov"
+}
