@@ -13,6 +13,12 @@ The card fades in and out smoothly and does not capture keyboard or pointer inpu
 Events from virtual keyboards used by Fcitx5/Waynergy and system buttons are
 ignored, so pasting text or dictating with Voxtype does not trigger the indicator.
 
+## Preview
+
+The indicator appears briefly when switching between keyboard layouts:
+
+![Keyboard layout OSD preview](assets/preview.png)
+
 ## Requirements
 
 - Omarchy with Quickshell
