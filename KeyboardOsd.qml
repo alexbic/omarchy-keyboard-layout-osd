@@ -105,6 +105,7 @@ Item {
         Text {
           width: card.width
           text: root.layout
+          textFormat: Text.PlainText
           horizontalAlignment: Text.AlignHCenter
           color: Color.popups.text
           font.family: Style.font.family
